@@ -1,3 +1,6 @@
+<img width="1080" height="2340" alt="Screenshot_20260906-080441_Trebuchet" src="https://github.com/user-attachments/assets/bff1fac1-0b47-4dd3-a222-bc82a66bdd5d" />
+<img width="1080" height="2340" alt="Screenshot_20260906-084238_Trebuchet" src="https://github.com/user-attachments/assets/70577393-f78c-4342-92f8-70329ec45607" />
+<img width="1080" height="2340" alt="Screenshot_20260906-085148_Trebuchet" src="https://github.com/user-attachments/assets/c9d7ca6a-c962-48b4-9137-567cd3955d7f" />
 # TermuX IDE
 
 <p align="center">
