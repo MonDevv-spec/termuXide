@@ -1,6 +1,3 @@
-<img width="1080" height="2340" alt="Screenshot_20260906-080441_Trebuchet" src="https://github.com/user-attachments/assets/bff1fac1-0b47-4dd3-a222-bc82a66bdd5d" />
-<img width="1080" height="2340" alt="Screenshot_20260906-084238_Trebuchet" src="https://github.com/user-attachments/assets/70577393-f78c-4342-92f8-70329ec45607" />
-<img width="1080" height="2340" alt="Screenshot_20260906-085148_Trebuchet" src="https://github.com/user-attachments/assets/c9d7ca6a-c962-48b4-9137-567cd3955d7f" />
 # TermuX IDE
 
 <p align="center">
@@ -20,6 +17,16 @@
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bff1fac1-0b47-4dd3-a222-bc82a66bdd5d" width="30%" alt="Explorer" />
+  <img src="https://github.com/user-attachments/assets/70577393-f78c-4342-92f8-70329ec45607" width="30%" alt="Terminal" />
+  <img src="https://github.com/user-attachments/assets/c9d7ca6a-c962-48b4-9137-567cd3955d7f" width="30%" alt="Settings" />
+</p>
+
+---
+
 ## 📖 Overview
 
 **TermuX** is an integrated mobile development environment built upon the core open-source Termux terminal engine. It combines a full-featured Linux shell, a multi-tab syntax-highlighted code editor, and a project-aware workspace manager into a single streamlined Android application.
@@ -29,7 +36,7 @@
 - **Multi-Session Terminal:** Interactive terminal emulator supporting concurrent shell sessions, physical haptic extra keys (`Ctrl`, `Alt`, `Esc`, `Arrows`, `Stop/SIGINT`), and an instant Command Palette.
 - **Integrated Code Editor:** Multi-tab editor powered by TextMate grammar with syntax highlighting, function outline navigation, regex search & replace, and crash-safe auto-drafts.
 - **Project-Aware Workspace:** File explorer with auto-detection for common build systems (Gradle, CMake, NDK, Node.js, Python), deep directory search, and archive extraction (`.zip`, `.tar.gz`, `.7z`).
-- **SDK & Build Toolchain:** Compile APKs and native C/C++ libraries directly on your device with configurable JVM memory profiles and non-blocking build monitors.
+- **SDK & Build Toolchain:** Compile standalone APKs and native C/C++ libraries directly on your device with configurable JVM memory profiles and non-blocking build monitors.
 - **Dark Glass UI:** Clean Material 3 interface designed for low RAM consumption and seamless developer workflows.
 
 ---
